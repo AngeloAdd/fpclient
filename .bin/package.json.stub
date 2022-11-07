@@ -1,0 +1,9 @@
+{
+  "type":"commonjs",
+  "engines": {
+    "node": "16.15.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
